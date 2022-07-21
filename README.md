@@ -14,7 +14,7 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# TransRocket
 
 Final project for the Building AI course
 
@@ -30,17 +30,24 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 
 This is how you make a list, if you need one:
 * problem 1
+* use of more than two cards by one client/passenger
 * problem 2
-* etc.
+* Identification of client card
+* view bus destination
 
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+TransRocket can be accessed by entering your username and password, passengers and drivers are responsible for this. It is accessible either by an administrator or receptionist, only they can add data into the database. The data can be retrieved easily.
+The data are well protected for personal use makes the data processing very fast.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
+https://www.inyourpocket.com/johannesburg/Getting-Around:-How-to-use-the-Rea-Vaya-bus_74232f.jpg
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
