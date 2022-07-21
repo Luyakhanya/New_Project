@@ -45,7 +45,7 @@ The data are well protected for personal use makes the data processing very fast
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![image of a rea](/rea.jpg)
+![image of a ReaVaya](/ReaVaya.jpg)
 
 
 If you need to resize images, you have to use an HTML tag, like this:
