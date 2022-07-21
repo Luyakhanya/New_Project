@@ -49,7 +49,7 @@ Once you upload an image to your repository, you can link link to it like this (
 
 
 If you need to resize images, you have to use an HTML tag, like this:
-#####
+
 
 This is how you create code examples:
 ```
@@ -84,9 +84,17 @@ If you need to use links, here's an example:
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+Other south Africans who  don't have an Identity documents and foreigners without a visa.
+
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+
+Stay focused on the main Goal.
+Improve project planning and quality.
+Stay in touch with the group-more often.
+Communicate with the customer three times a week.
+Help team members' tasks.
 
 
 ## Acknowledgments
